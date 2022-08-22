@@ -2,7 +2,7 @@
 
 Projeto feito com o intuito de mostrar o uso da função useState com [Clean Architecture](https://www.techtarget.com/whatis/definition/clean-architecture#:~:text=Clean%20architecture%20is%20a%20software,separate%20from%20the%20delivery%20mechanism.) em diferentes cenários.
 
-###Comandos
+### Comandos
 
 Instalar o projeto
 
